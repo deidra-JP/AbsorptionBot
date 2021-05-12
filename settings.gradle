@@ -1,0 +1,2 @@
+rootProject.name = "Absorption Bot"
+include ':app'
